@@ -15,6 +15,11 @@ public class College {
 		c.collegeName();
 		c.collegeCode();
 		c.collegeRank();
+		c.collegeRank();
+		c.collegeRank();
+		c.collegeRank();
+		c.collegeRank();
+		c.collegeRank();
 		Student s=new Student();
 		s.studentName();
 		s.studentId();
@@ -22,6 +27,12 @@ public class College {
 		Hostel h=new Hostel();
 		h.hostelName();
 		Department d=new Department();
+		d.departName();
+		d.departName();
+		d.departName();
+		d.departName();
+		d.departName();
+		d.departName();
 		d.departName();
 	}
 }
